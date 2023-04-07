@@ -5,11 +5,11 @@ The module Tutorial 1a prints "hello world!" to the user in various ways.
 
 ## Table of contents
 
-[Hello world](#hello-world)
-[International hello world](#international-hello-world)
-[Fancy hello world](#fancy-hello-world)
-[Requirements](#requirements)
-[Notes](#notes)
+* [Hello world](#hello-world)
+* [International hello world](#international-hello-world)
+* [Fancy hello world](#fancy-hello-world)
+* [Requirements](#requirements)
+* [Notes](#notes)
 
 
 ## Hello world
