@@ -31,7 +31,7 @@ Right after running the program, the user has to type its name.
 
 ## Requirements
 
-No special requirements
+No special requirements.
 
 
 ## Notes
